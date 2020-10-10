@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Reservas MM.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+				<key>dateExpires</key>
+				<string>27/03/2021</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>QRCodeReader.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPCommon.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPFiori.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPFioriFlows.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPFoundation.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPML.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPOData.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+						<key>dateExpires</key>
+						<string>27/03/2021</string>
+						<key>type</key>
+						<string>Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPOfflineOData.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>G2CLXNGC82.com.resulto.Reservas-MM</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>G2CLXNGC82</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>G2CLXNGC82.com.resulto.Reservas-MM</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Reservas MM.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>7d9e8a47-ad4a-4c2c-a46b-3798cfb9de01</string>
+				<key>name</key>
+				<string>adhoc-test-reservasMM</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>G2CLXNGC82</string>
+				<key>name</key>
+				<string>RESULTO CONSULTORIA SL</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
