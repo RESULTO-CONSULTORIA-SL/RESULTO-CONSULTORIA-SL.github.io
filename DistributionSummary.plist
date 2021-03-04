@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Reservas MM.ipa</key>
+	<key>Farmacia Recoletas.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -12,9 +12,9 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+				<string>62BE81E4EC0C433356F5D0F41522E16C8BAF0D30</string>
 				<key>dateExpires</key>
-				<string>27/03/2021</string>
+				<string>3/3/22</string>
 				<key>type</key>
 				<string>Apple Distribution</string>
 			</dict>
@@ -30,7 +30,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -54,7 +54,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -78,10 +78,37 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
+					<key>embeddedBinaries</key>
+					<array>
+						<dict>
+							<key>architectures</key>
+							<array>
+								<string>arm64</string>
+							</array>
+							<key>certificate</key>
+							<dict>
+								<key>SHA1</key>
+								<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
+								<key>dateExpires</key>
+								<string>27/3/21</string>
+								<key>type</key>
+								<string>Apple Distribution</string>
+							</dict>
+							<key>name</key>
+							<string>SAPCommon.framework</string>
+							<key>team</key>
+							<dict>
+								<key>id</key>
+								<string>G2CLXNGC82</string>
+								<key>name</key>
+								<string>RESULTO CONSULTORIA SL</string>
+							</dict>
+						</dict>
+					</array>
 					<key>name</key>
 					<string>SAPFiori.framework</string>
 					<key>team</key>
@@ -102,7 +129,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -126,7 +153,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -150,31 +177,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
-						<key>type</key>
-						<string>Apple Distribution</string>
-					</dict>
-					<key>name</key>
-					<string>SAPML.framework</string>
-					<key>team</key>
-					<dict>
-						<key>id</key>
-						<string>G2CLXNGC82</string>
-						<key>name</key>
-						<string>RESULTO CONSULTORIA SL</string>
-					</dict>
-				</dict>
-				<dict>
-					<key>architectures</key>
-					<array>
-						<string>arm64</string>
-					</array>
-					<key>certificate</key>
-					<dict>
-						<key>SHA1</key>
-						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
-						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -198,7 +201,7 @@
 						<key>SHA1</key>
 						<string>F4C7A580DED8110CC91A0A0A65F6192E64977BB4</string>
 						<key>dateExpires</key>
-						<string>27/03/2021</string>
+						<string>27/3/21</string>
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
@@ -216,24 +219,24 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>G2CLXNGC82.com.resulto.Reservas-MM</string>
+				<string>G2CLXNGC82.com.resulto.Farmacia-Recoletas</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G2CLXNGC82</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>G2CLXNGC82.com.resulto.Reservas-MM</string>
+					<string>G2CLXNGC82.com.resulto.Farmacia-Recoletas</string>
 				</array>
 			</dict>
 			<key>name</key>
-			<string>Reservas MM.app</string>
+			<string>Farmacia Recoletas.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>7d9e8a47-ad4a-4c2c-a46b-3798cfb9de01</string>
+				<string>c4c43055-36cb-4337-9d2d-26310c931dd2</string>
 				<key>name</key>
-				<string>adhoc-test-reservasMM</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Farmacia-Recoletas</string>
 			</dict>
 			<key>team</key>
 			<dict>
