@@ -234,9 +234,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f321e9e8-87c8-4d6f-884a-138f0035e043</string>
+				<string>66c0da93-5b54-42a5-a93e-b09708586170</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Farmacia-Recoletas</string>
+				<string>adhoc-test-recoletas-enfermeria</string>
 			</dict>
 			<key>team</key>
 			<dict>
