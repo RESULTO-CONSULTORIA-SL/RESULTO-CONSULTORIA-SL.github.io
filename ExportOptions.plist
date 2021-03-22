@@ -17,15 +17,8 @@
 	</dict>
 	<key>method</key>
 	<string>ad-hoc</string>
-	<key>provisioningProfiles</key>
-	<dict>
-		<key>com.resulto.Farmacia-Recoletas</key>
-		<string>Enfermería-Recoletas-General</string>
-	</dict>
-	<key>signingCertificate</key>
-	<string>Apple Distribution</string>
 	<key>signingStyle</key>
-	<string>manual</string>
+	<string>automatic</string>
 	<key>stripSwiftSymbols</key>
 	<true/>
 	<key>teamID</key>
