@@ -219,14 +219,14 @@
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>G2CLXNGC82.com.resulto.Farmacia-Recoletas</string>
+				<string>G2CLXNGC82.com.resulto.Enfermeria-Recoletas</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G2CLXNGC82</string>
 				<key>get-task-allow</key>
 				<false/>
 				<key>keychain-access-groups</key>
 				<array>
-					<string>G2CLXNGC82.com.resulto.Farmacia-Recoletas</string>
+					<string>G2CLXNGC82.com.resulto.Enfermeria-Recoletas</string>
 				</array>
 			</dict>
 			<key>name</key>
@@ -234,9 +234,9 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>f321e9e8-87c8-4d6f-884a-138f0035e043</string>
+				<string>389b3010-3791-4aab-b606-a26202adcb2c</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Farmacia-Recoletas</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Enfermeria-Recoletas</string>
 			</dict>
 			<key>team</key>
 			<dict>
