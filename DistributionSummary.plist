@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ENFERMERIA.ipa</key>
+	<key>Enfermería.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -230,11 +230,11 @@
 				</array>
 			</dict>
 			<key>name</key>
-			<string>ENFERMERIA.app</string>
+			<string>Enfermería.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>90c66d92-8b1c-43ea-8ac8-973267cbb5e8</string>
+				<string>ab69f39f-9a11-45a9-b745-1beb78e24ec5</string>
 				<key>name</key>
 				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Farmacia-Recoletas</string>
 			</dict>
