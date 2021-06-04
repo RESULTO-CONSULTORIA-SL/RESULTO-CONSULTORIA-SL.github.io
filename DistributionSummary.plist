@@ -35,7 +35,7 @@
 						<string>Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>QRCodeReader.framework</string>
+					<string>BarcodeScanner.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -82,33 +82,6 @@
 						<key>type</key>
 						<string>Apple Distribution</string>
 					</dict>
-					<key>embeddedBinaries</key>
-					<array>
-						<dict>
-							<key>architectures</key>
-							<array>
-								<string>arm64</string>
-							</array>
-							<key>certificate</key>
-							<dict>
-								<key>SHA1</key>
-								<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
-								<key>dateExpires</key>
-								<string>22/3/22</string>
-								<key>type</key>
-								<string>Apple Distribution</string>
-							</dict>
-							<key>name</key>
-							<string>SAPCommon.framework</string>
-							<key>team</key>
-							<dict>
-								<key>id</key>
-								<string>G2CLXNGC82</string>
-								<key>name</key>
-								<string>RESULTO CONSULTORIA SL</string>
-							</dict>
-						</dict>
-					</array>
 					<key>name</key>
 					<string>SAPFiori.framework</string>
 					<key>team</key>
