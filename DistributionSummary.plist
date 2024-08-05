@@ -2,21 +2,23 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>Enfermeria.ipa</key>
+	<key>Reservas MM.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
 			<array>
 				<string>arm64</string>
 			</array>
+			<key>buildNumber</key>
+			<string>1</string>
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+				<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 				<key>dateExpires</key>
-				<string>22/3/22</string>
+				<string>12/4/25</string>
 				<key>type</key>
-				<string>Apple Distribution</string>
+				<string>Cloud Managed Apple Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -25,17 +27,19 @@
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>1</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
-					<string>BarcodeScanner.framework</string>
+					<string>QRCodeReader.framework</string>
 					<key>team</key>
 					<dict>
 						<key>id</key>
@@ -43,20 +47,24 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>10.1.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPCommon.framework</string>
@@ -67,20 +75,24 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>15835</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFiori.framework</string>
@@ -91,20 +103,24 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFioriFlows.framework</string>
@@ -115,20 +131,24 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFoundation.framework</string>
@@ -139,20 +159,52 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
+					</dict>
+					<key>name</key>
+					<string>SAPML.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>G2CLXNGC82</string>
+						<key>name</key>
+						<string>RESULTO CONSULTORIA SL</string>
+					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<key>dateExpires</key>
+						<string>12/4/25</string>
+						<key>type</key>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPOData.framework</string>
@@ -163,20 +215,24 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 				<dict>
 					<key>architectures</key>
 					<array>
 						<string>arm64</string>
 					</array>
+					<key>buildNumber</key>
+					<string>24.4.0</string>
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F87DECF40AEFB048CC4E0518FD7ECBAE1599BD7A</string>
+						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
 						<key>dateExpires</key>
-						<string>22/3/22</string>
+						<string>12/4/25</string>
 						<key>type</key>
-						<string>Apple Distribution</string>
+						<string>Cloud Managed Apple Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPOfflineOData.framework</string>
@@ -187,29 +243,29 @@
 						<key>name</key>
 						<string>RESULTO CONSULTORIA SL</string>
 					</dict>
+					<key>versionNumber</key>
+					<string>24.4.0</string>
 				</dict>
 			</array>
 			<key>entitlements</key>
 			<dict>
 				<key>application-identifier</key>
-				<string>G2CLXNGC82.com.resulto.Enfermeria-Recoletas</string>
+				<string>G2CLXNGC82.com.resulto.Reservas-MM</string>
 				<key>com.apple.developer.team-identifier</key>
 				<string>G2CLXNGC82</string>
 				<key>get-task-allow</key>
 				<false/>
-				<key>keychain-access-groups</key>
-				<array>
-					<string>G2CLXNGC82.com.resulto.Enfermeria-Recoletas</string>
-				</array>
 			</dict>
 			<key>name</key>
-			<string>Enfermeria.app</string>
+			<string>Reservas MM.app</string>
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>389b3010-3791-4aab-b606-a26202adcb2c</string>
+				<string>0647ac1f-0442-4b32-8628-154d9d1899c8</string>
+				<key>dateExpires</key>
+				<string>12/4/25</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Enfermeria-Recoletas</string>
+				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Reservas-MM</string>
 			</dict>
 			<key>team</key>
 			<dict>
@@ -218,6 +274,8 @@
 				<key>name</key>
 				<string>RESULTO CONSULTORIA SL</string>
 			</dict>
+			<key>versionNumber</key>
+			<string>1.6.0</string>
 		</dict>
 	</array>
 </dict>
