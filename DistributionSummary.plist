@@ -14,11 +14,11 @@
 			<key>certificate</key>
 			<dict>
 				<key>SHA1</key>
-				<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+				<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 				<key>dateExpires</key>
-				<string>12/4/25</string>
+				<string>14/8/25</string>
 				<key>type</key>
-				<string>Cloud Managed Apple Distribution</string>
+				<string>iOS Distribution</string>
 			</dict>
 			<key>embeddedBinaries</key>
 			<array>
@@ -32,11 +32,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>QRCodeReader.framework</string>
@@ -60,11 +60,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPCommon.framework</string>
@@ -88,11 +88,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFiori.framework</string>
@@ -116,11 +116,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFioriFlows.framework</string>
@@ -144,11 +144,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPFoundation.framework</string>
@@ -172,11 +172,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPML.framework</string>
@@ -200,11 +200,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPOData.framework</string>
@@ -228,11 +228,11 @@
 					<key>certificate</key>
 					<dict>
 						<key>SHA1</key>
-						<string>F1113D93FDC867AEC93CAA6B9A6962542492FE37</string>
+						<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
 						<key>dateExpires</key>
-						<string>12/4/25</string>
+						<string>14/8/25</string>
 						<key>type</key>
-						<string>Cloud Managed Apple Distribution</string>
+						<string>iOS Distribution</string>
 					</dict>
 					<key>name</key>
 					<string>SAPOfflineOData.framework</string>
@@ -261,11 +261,11 @@
 			<key>profile</key>
 			<dict>
 				<key>UUID</key>
-				<string>0647ac1f-0442-4b32-8628-154d9d1899c8</string>
+				<string>af00e36d-d25f-49cb-8025-5389bb11fb5b</string>
 				<key>dateExpires</key>
-				<string>12/4/25</string>
+				<string>14/8/25</string>
 				<key>name</key>
-				<string>iOS Team Ad Hoc Provisioning Profile: com.resulto.Reservas-MM</string>
+				<string>recoletas-reservas-mm-adhoc-distribution</string>
 			</dict>
 			<key>team</key>
 			<dict>
