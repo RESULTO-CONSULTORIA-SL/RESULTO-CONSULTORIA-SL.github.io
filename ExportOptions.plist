@@ -31,6 +31,6 @@
 	<key>teamID</key>
 	<string>G2CLXNGC82</string>
 	<key>thinning</key>
-	<string>&lt;none&gt;</string>
+	<string>&lt;thin-for-all-variants&gt;</string>
 </dict>
 </plist>
