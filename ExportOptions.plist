@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>compileBitcode</key>
-	<false/>
 	<key>destination</key>
 	<string>export</string>
 	<key>manifest</key>
@@ -31,6 +29,6 @@
 	<key>teamID</key>
 	<string>G2CLXNGC82</string>
 	<key>thinning</key>
-	<string>&lt;thin-for-all-variants&gt;</string>
+	<string>&lt;none&gt;</string>
 </dict>
 </plist>

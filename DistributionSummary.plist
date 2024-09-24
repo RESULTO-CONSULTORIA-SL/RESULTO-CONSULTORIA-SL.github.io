@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>ReservasMM.ipa</key>
+	<key>Reservas MM.ipa</key>
 	<array>
 		<dict>
 			<key>architectures</key>
@@ -275,7 +275,7 @@
 				<string>RESULTO CONSULTORIA SL</string>
 			</dict>
 			<key>versionNumber</key>
-			<string>1.6.0</string>
+			<string>1.6.2</string>
 		</dict>
 	</array>
 </dict>
