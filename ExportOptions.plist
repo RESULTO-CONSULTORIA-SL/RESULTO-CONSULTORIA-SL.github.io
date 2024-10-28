@@ -7,7 +7,7 @@
 	<key>manifest</key>
 	<dict>
 		<key>appURL</key>
-		<string>https://resulto-consultoria-sl.github.io/ReservasMM.ipa</string>
+		<string>https://resulto-consultoria-sl.github.io/Enfermeria.ipa</string>
 		<key>displayImageURL</key>
 		<string>https://resulto-consultoria-sl.github.io/57.png</string>
 		<key>fullSizeImageURL</key>
@@ -17,8 +17,8 @@
 	<string>release-testing</string>
 	<key>provisioningProfiles</key>
 	<dict>
-		<key>com.resulto.Reservas-MM</key>
-		<string>recoletas-reservas-mm-adhoc-distribution</string>
+		<key>com.resulto.Enfermeria-Recoletas</key>
+		<string>recoletas-enfermeria-adhoc-distribution</string>
 	</dict>
 	<key>signingCertificate</key>
 	<string>A29DE5B4FCA9599CEBAF86C5069403DB1AF9AA8A</string>
